@@ -1,5 +1,5 @@
 PODS:
-  - Analytics (3.6.8-SNAPSHOT)
+  - Analytics (3.6.9)
 
 DEPENDENCIES:
   - Analytics (from `../../`)
